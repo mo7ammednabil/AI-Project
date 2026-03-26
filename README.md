@@ -14,7 +14,7 @@ How to Run
 
 Clone the repo and run the desired script:
 
-git clone https://github.com/yourusername/tic-tac-toe-ai.git
+git clone https://github.com/mo7ammednabil/AI-Project.git
 cd tic-tac-toe-ai
 
 AI vs AI:
